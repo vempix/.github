@@ -1,6 +1,8 @@
-# Vempix — Confirmação de Pix pelo WhatsApp
+# Vempix
 
-A Vempix é uma empresa de tecnologia que oferece uma suite de soluções ERP e produtos para operações financeiras. Nosso foco é automatizar processos críticos de validação e conciliação, reduzindo trabalho manual, incidência de fraudes e erros operacionais.
+A Vempix é uma empresa de tecnologia que oferece uma suite de soluções ERP e produtos para operações financeiras.
+<br>
+Nosso foco é automatizar processos críticos de validação e conciliação, reduzindo trabalho manual, incidência de fraudes e erros operacionais.
 
 ---
 
@@ -19,14 +21,13 @@ Se a transferência for falsa, o comprovante é inválido. Se houver latência n
 
 ## 📊 Resultados esperados
 
-- **Confirmação em segundos** — retorno automático no WhatsApp do cliente
-- **Menos mensagens manuais** — menos trabalho para o time de atendimento
+- **Confirmação em segundos** — retorno automático pelo WhatsApp
+- **Menos mensagens manuais** — menos trabalho para o time de atendimento, mais controle do tempo
 - **Controle de risco** — detecção de comprovantes duplicados e validação de destino automática
 
 ---
 
 ## 📧 Contato
 
-- **Email:** contato@vempix.com.br
-- **Telefone:** (11) 99444-3198
-- **Site:** [use.vempix.com.br](https://use.vempix.com.br)
+- contato@vempix.com.br
+- [use.vempix.com.br](https://use.vempix.com.br)
